@@ -22,6 +22,8 @@ d) SDA - D21
 ii. Push Button 1(Play Button) to GPIO18(D18)
 iii. Push Button 2(Reset Button) to GPIO19(D19)
 
+Gallery:
+
 ![20240915_234505](https://github.com/user-attachments/assets/9a32b868-6336-4cea-a96f-e12140447f95)
 
 ![20240915_234701](https://github.com/user-attachments/assets/e689f2d0-c5cf-4e9c-91a1-a1f28e3b2d6f)
